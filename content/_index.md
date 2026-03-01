@@ -25,8 +25,6 @@ sections:
 #        padding: ['3rem', 0, '6rem', 0]
   - block: markdown
     content:
-      title: "About This Section"
-      subtitle: "More details below"
       text: |
         ## Education
         
