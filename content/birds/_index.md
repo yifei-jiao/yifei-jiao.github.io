@@ -12,6 +12,9 @@ sections:
     design:
       view: card
       columns: 2
+      show_date: false
+      show_summary: false
+      show_tags: false
 ---
 
 <div style="display:flex; flex-wrap:wrap; gap:12px;">
