@@ -23,18 +23,22 @@ sections:
 #    design:
 #      spacing:
 #        padding: ['3rem', 0, '6rem', 0]
-  - block: resume-experience
+- block: resume-experience
     content:
-      title: "Education"
+      title: Education
       items:
-        - title: PhD, Tsinghua University
-          date_start: 2020-09
-          date_end: 2025-06
-          description: Beijing, China
-        - title: Bachelor, Tsinghua University
-          date_start: 2016-09
-          date_end: 2020-06
-          description: Beijing, China
+        - title: PhD in Computer Science
+          company: Tsinghua University
+          location: Beijing, China
+          date_start: '2020-09-01'
+          date_end: '2025-06-30'
+          description: Researching AI and Robotics.
+        - title: Bachelor of Engineering
+          company: Tsinghua University
+          location: Beijing, China
+          date_start: '2016-09-01'
+          date_end: '2020-06-30'
+          description: Completed with honors.
     design:
       columns: "1"
 ---
