@@ -5,9 +5,15 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Topics
-    url: tags/
+  - name: Research
+    url: research/
     weight: 20
-  - name: Uses
-    url: uses/
+  - name: Birds
+    url: birds/
     weight: 30
+  - name: Links
+    url: links/
+    weight: 40
+  - name: CV
+    url: uploads/Resume.pdf
+    weight: 50
