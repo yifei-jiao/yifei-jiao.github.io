@@ -38,7 +38,7 @@ To be updated.
 In this work, we use numerical simulations to demonstrate that the asteroid 2016HO3's physical and orbital properties are compatible with a fragment from a crater larger than 10–20 km formed on the Moon in the last few million years. The impact could have ejected sufficiently large fragments into heliocentric orbits, some of which could be transferred to Earth 1:1 resonance and persist today. This leads us to suggest the young lunar crater Giordano Bruno as the most likely source.
 </p>
 
-### <a href="https://doi.org/10.1093/mnras/stad3888" target="_blank">SPH-DEM method modelling impacts on rubble-pile asteroids</a>
+### <a href="https://doi.org/10.1093/mnras/stad3888" target="_blank">SPH-DEM method modeling impacts on rubble-pile asteroids</a>
 
 <p align="justify">
 A new hybrid SPH–DEM framework is introduced to model the multistage dynamics in rubble-pile impacts, employing the surface contact particles and the interior gravity particles to describe large irregular boulders during long-term evolution. With the proposed method, the complexity of both the contact and gravity computation can be accelerated by ~100 times while maintaining the same level of resolution. The method is then used to simulate the DART impact on the rubble-pile asteroid Dimorphos.
