@@ -1,8 +1,6 @@
 ---
-title: "Birds"
+title: "See Birds"
 ---
-
-## See brids!
 
 <div style="display:flex; flex-wrap:wrap; gap:12px;">
   <img src="DSC_2288.jpg" style="width:48%; height:auto;">
