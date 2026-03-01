@@ -1,5 +1,17 @@
 ---
 title: "See Birds!"
+type: landing
+
+sections:
+  - block: collection
+    content:
+      filters:
+        folders:
+          - birds
+      count: 0
+    design:
+      view: card
+      columns: 2
 ---
 
 <div style="display:flex; flex-wrap:wrap; gap:12px;">
