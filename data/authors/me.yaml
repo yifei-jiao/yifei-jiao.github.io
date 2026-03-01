@@ -17,6 +17,8 @@ links:
     label: E-mail Me
   - icon: academicons/google-scholar
     link: https://scholar.google.com/citations?user=mNX2DVAAAAAJ&hl=zh-CN
+  - icon: academicons/researchgate
+    link: https://www.researchgate.net/profile/Yifei-Jiao-2
   - icon: academicons/cv
-    url: uploads/resume.pdf
+    url: uploads/Rezume.pdf
     label: Download my resume
