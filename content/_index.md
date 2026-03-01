@@ -39,8 +39,6 @@ sections:
           date_start: '2016-09-01'
           date_end: '2020-06-30'
           description: Completed with honors.
-    design:
-      columns: "1"
 ---
 
 ## Education
