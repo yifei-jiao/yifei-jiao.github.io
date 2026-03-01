@@ -1,15 +1,13 @@
 ---
 title: "See Birds"
-type: landing  # 告诉 Hugo 这是一个由组件构成的页面
+type: landing
 
 sections:
-  - block: collection
+  - block: gallery
     content:
       title: My Bird Photography
-      filters:
-        folders:
-          - birds # 指向文件夹
+      # 指向包含图片的文件夹。如果图片就在当前目录下，通常留空或写 "."
+      # 确保图片就在 content/birds/ 目录下
     design:
-      view: card # 使用卡片视图
-      columns: '2' # 设置为 2 列
+      columns: '2' # 3列会更炫酷一些
 ---
