@@ -23,7 +23,7 @@ sections:
 #    design:
 #      spacing:
 #        padding: ['3rem', 0, '6rem', 0]
-- block: resume-experience
+  - block: resume-experience
     content:
       title: Education
       items:
