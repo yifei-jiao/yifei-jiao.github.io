@@ -11,13 +11,12 @@ bio: I am a postdoctoral researcher at University of California Santa Cruz and T
 affiliations:
   - name: UC Santa Cruz | Tsinghua University
     # url: https://www.stanford.edu/
-# links:
-#   - icon: at-symbol
-#     url: mailto:jiaoyf.thu@gmail.com
-#     label: E-mail Me
-#   - icon: google-scholar
-#     icon_pack: ai
-#     link: https://scholar.google.com/citations?user=mNX2DVAAAAAJ&hl=zh-CN
-#   - icon: academicons/cv
-#     url: uploads/resume.pdf
-#     label: Download my resume
+links:
+  - icon: at-symbol
+    url: mailto:jiaoyf.thu@gmail.com
+    label: E-mail Me
+  - icon: academicons/google-scholar
+    link: https://scholar.google.com/citations?user=mNX2DVAAAAAJ&hl=zh-CN
+  - icon: academicons/cv
+    url: uploads/resume.pdf
+    label: Download my resume
