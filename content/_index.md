@@ -12,7 +12,6 @@ sections:
         padding: [0, 0, 0, 0]
       biography:
         style: 'text-align: justify; font-size: 0.8em;'
-      # Avatar customization
       avatar:
         size: medium  # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
@@ -26,7 +25,7 @@ sections:
 #        padding: ['3rem', 0, '6rem', 0]
   - block: resume-experience
     content:
-      title: Education
+      title: "Education"
       items:
         - title: PhD, Tsinghua University
           date_start: 2020-09
@@ -36,6 +35,8 @@ sections:
           date_start: 2016-09
           date_end: 2020-06
           description: Beijing, China
+    design:
+      columns: "1"
 ---
 
 ## Education
