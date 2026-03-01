@@ -24,6 +24,18 @@ sections:
 #    design:
 #      spacing:
 #        padding: ['3rem', 0, '6rem', 0]
+  - block: resume-experience
+    content:
+      title: Education
+      items:
+        - title: PhD, Tsinghua University
+          date_start: 2020-09
+          date_end: 2025-06
+          description: Beijing, China
+        - title: Bachelor, Tsinghua University
+          date_start: 2016-09
+          date_end: 2020-06
+          description: Beijing, China
 ---
 
 ## Education
