@@ -1,5 +1,5 @@
 ---
-title: Lunar impacts and lunar origin asteroids
+title: Lunar origin asteroids
 date: 2025-01-01
 summary: Lunar impact ejecta as the source of some near-Earth asteroids.
 tags: ["Asteroids"]
