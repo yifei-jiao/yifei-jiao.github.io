@@ -11,9 +11,6 @@ main:
   - name: Birds
     url: birds/
     weight: 30
-  - name: Links
-    url: links/
-    weight: 40
   - name: CV
     url: uploads/Rezume.pdf
-    weight: 50
+    weight: 40
