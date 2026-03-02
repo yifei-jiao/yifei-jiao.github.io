@@ -24,28 +24,26 @@ education:
   - degree: PhD
     institution: Tsinghua University, Beijing, China
     start: 2020-09-01
-    end: 2025-06-30
+    end: 2025-06-01
     summary: Numerical modeling of impact dynamics and collisional evolution of asteroids
   - degree: BSc 
     institution: Tsinghua University, Beijing, China
     start: 2016-09-01
-    end: 2020-06-30
+    end: 2020-06-01
     summary: Monte Carlo tree search for optimizing multi-target deep space exploration
 experience:
-  - role: Director of Cloud Infrastructure
-    org: GenCoin
-    start: 2021-01-01
-    summary: |
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - role: Backend Software Engineer
-    org: X
-    start: 2016-01-01
-    end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - role: Postdoctoral researcher
+    org: University of California Santa Cruz, CA, USA
+    start: 2025-09-01
+  - role: Visiting scholar
+    org: Shanghai Astronomical Observatory, Shanghai, China
+    start: 2025-08-01
+    end: 2025-09-01
+  - role: Visiting scholar
+    org: University of Tokyo \& NAOJ, Tokyo, Japan
+    start: 2025-04-01
+    end: 2025-05-01
+  - role: Visiting student
+    org: LPL, University of Arizona, Tucson, AZ, USA
+    start: 2024-01-01
+    end: 2024-06-01
