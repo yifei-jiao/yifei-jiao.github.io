@@ -10,7 +10,6 @@ sections:
         I am currently a PhD student at Tsinghua University focusing on 
         cutting-edge AI applications. My work bridges the gap between 
         theoretical models and real-world impact.
-      
       image: asteroid-deflection.jpg
       button:
         text: View My Publications
