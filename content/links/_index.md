@@ -1,10 +1,11 @@
 ---
-title: "Resource Links"
+title: "Links"
 type: landing
 
 sections:
   - block: markdown
     content:
+      title: Resource Links
       text: |
         ### <a href="https://sphsol-tutorial.readthedocs.io/en/latest/" target="_blank">Smoothed Particle Hydrodynamics Code SPHSOL</a>
 
