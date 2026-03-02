@@ -1,7 +1,7 @@
 ---
 title: Kinetic impact for asteroid deflection
 date: 2023-01-01
-summary: Where should we impact an asteroid to effectively deflect it
+summary: Where should we impact an asteroid to effectively deflect it?
 tags: ["Asteroids"]
 ---
 
