@@ -1,6 +1,6 @@
 ---
-title: "California Scrub Jay"
+title: "Dark-eyed Junco"
 date: 2026-01-01
 summary: ""
-tags: ["bird"]
+tags: ["暗眼灯草鹀"]
 ---
