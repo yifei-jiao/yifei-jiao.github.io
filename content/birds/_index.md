@@ -12,7 +12,7 @@ sections:
       count: 0
     design:
       view: card
-      columns: 3
+      columns: 2
       show_date: false
       show_summary: false
       show_reading_time: false
