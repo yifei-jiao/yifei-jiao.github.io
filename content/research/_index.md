@@ -11,15 +11,12 @@ sections:
         cutting-edge AI applications. My work bridges the gap between 
         theoretical models and real-world impact.
       
-      image: 'asteroid-deflection.jpg'
-      
+      image: asteroid-deflection.jpg
       button:
-        text: 'View My Publications'
-        url: 'https://scholar.google.com'
-        
+        text: View My Publications
+        url: https://scholar.google.com
     design:
       columns: 2
-      css_style: 'h2 { font-size: 1.5rem; }'
       flip_side: false
   - block: markdown
     content:
