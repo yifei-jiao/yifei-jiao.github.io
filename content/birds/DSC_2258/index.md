@@ -1,6 +1,6 @@
 ---
-title: "California Scrub Jay"
+title: "American Avocet"
 date: 2026-01-01
 summary: ""
-tags: ["bird"]
+tags: ["褐胸反嘴鹬"]
 ---
