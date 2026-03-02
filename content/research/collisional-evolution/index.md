@@ -1,7 +1,7 @@
 ---
 title: Collisional evolution of asteroids
 date: 2025-01-01
-summary: Asteroids shaped by collisions from cratering to catastrophic disruption...
+summary: How did asteroids evolved due to collisions from cratering to catastrophic disruption?
 tags: ["Asteroids"]
 ---
 
