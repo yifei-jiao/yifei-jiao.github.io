@@ -1,10 +1,11 @@
 ---
-title: "See Birds!"
+title: "Birds"
 type: landing
 
 sections:
   - block: collection
     content:
+      title: See Birds!
       filters:
         folders:
           - birds
