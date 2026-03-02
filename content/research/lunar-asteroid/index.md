@@ -1,6 +1,6 @@
 ---
 title: Lunar impacts and lunar origin asteroids
 date: 2025-01-01
-summary: Lunar impacts could have ejected high-speed debris into heliocentric orbits, some of which could persist today as NEAs...
+summary: Lunar impact ejecta as the source of some near-Earth asteroids.
 tags: ["Asteroids"]
 ---
