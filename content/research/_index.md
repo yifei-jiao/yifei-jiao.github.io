@@ -1,11 +1,11 @@
 ---
-title: "Research Works"
+title: "Research"
 type: landing
 
 sections:
   - block: markdown
     content:
-      title: Resource Links
+      title: Resaerch Works
       text: |
         ### Saturn's ring formation from tidal strip of a pre-existing moon
         
