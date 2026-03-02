@@ -20,7 +20,4 @@ sections:
     design:
       date_format: 'Jan 2006'
       is_education_first: true
-      css_style: |
-        .home-section .section-title {
-          font-size: 1.2rem;
 ---
