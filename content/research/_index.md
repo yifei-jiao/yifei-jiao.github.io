@@ -12,7 +12,7 @@ sections:
       count: 0
     design:
       view: article-grid
-      columns: 1
+      columns: 2
       show_date: false
       show_summary: false
       show_reading_time: false
