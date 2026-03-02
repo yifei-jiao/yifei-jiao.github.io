@@ -11,7 +11,7 @@ sections:
         cutting-edge AI applications. My work bridges the gap between 
         theoretical models and real-world impact.
       
-      image: 'research-photo.jpg'
+      image: 'asteroid-deflection.jpg'
       
       button:
         text: 'View My Publications'
