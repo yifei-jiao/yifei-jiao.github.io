@@ -25,7 +25,7 @@ hugoblox:
     # Social accounts (used for meta tags like Twitter Cards)
     social:
       twitter: "MakeOwnable"              # Twitter/X handle for Twitter Cards (without @)
-    logo: "/logo.png"
+    logo: "uploads/logo.png"
   
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
