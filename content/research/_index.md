@@ -3,6 +3,24 @@ title: "Research"
 type: landing
 
 sections:
+  - block: cta-image-paragraph
+    content:
+      title: 'My Research Vision'
+      text: |
+        I am currently a PhD student at Tsinghua University focusing on 
+        cutting-edge AI applications. My work bridges the gap between 
+        theoretical models and real-world impact.
+      
+      image: 'research-photo.jpg'
+      
+      button:
+        text: 'View My Publications'
+        url: 'https://scholar.google.com'
+        
+    design:
+      columns: '2'
+      css_style: 'h2 { font-size: 1.5rem; }'
+      flip_side: false
   - block: markdown
     content:
       title: Resaerch Works
