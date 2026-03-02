@@ -5,7 +5,7 @@ type: landing
 sections:
   - block: cta-image-paragraph
     content:
-      title: 'My Research Vision'
+      title: My Research Vision
       text: |
         I am currently a PhD student at Tsinghua University focusing on 
         cutting-edge AI applications. My work bridges the gap between 
@@ -18,7 +18,7 @@ sections:
         url: 'https://scholar.google.com'
         
     design:
-      columns: '2'
+      columns: 2
       css_style: 'h2 { font-size: 1.5rem; }'
       flip_side: false
   - block: markdown
