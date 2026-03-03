@@ -32,7 +32,7 @@ education:
     start: 2020-09-01
     end: 2025-06-01
     summary: |
-      Numerical modeling of impact dynamics and collisional evolution of asteroids
+      *Numerical modeling of impact dynamics and collisional evolution of asteroids*
       - Tsinghua Top Grade Scholarship (Highest Honor for Students, 10 per year)
       - National Natural Science Foundation of China
       - Youth Talent Support Program of China Association for Science and Technology
@@ -40,7 +40,7 @@ education:
     institution: Tsinghua University, Beijing, China
     start: 2016-09-01
     end: 2020-06-01
-    summary: Monte Carlo tree search for optimizing multi-target deep space exploration
+    summary: *Monte Carlo tree search for optimizing multi-target deep space exploration*
 experience:
   - role: Postdoc
     org: University of California Santa Cruz, CA, USA
