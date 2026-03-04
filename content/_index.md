@@ -9,6 +9,7 @@ sections:
     design:
       banner:
         filename: DSC_0247.jpg
+      featured_image_focal_point: [0.5, 0.5]
       spacing:
         padding: [0, 0, 0, 0]
       biography:
