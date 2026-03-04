@@ -7,6 +7,8 @@ sections:
     content:
       username: me
     design:
+      banner:
+        filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
       spacing:
         padding: [0, 0, 0, 0]
       biography:
