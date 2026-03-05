@@ -10,6 +10,6 @@ tags: ["Asteroids"]
 > [!IMPORTANT]
 > This page is under development.
 
-T. Baoyin, **Y. Jiao**, B. Cheng. <a href="https://doi.org/10.1093/mnras/staf1628" target="_blank">*Predicting the collision history of basaltic asteroids from parametrized shapes with an artificial neural network *.</a> Monthly Notices of the Royal Astronomical Society (2025)
+T. Baoyin, **Y. Jiao**, B. Cheng. <a href="https://doi.org/10.1093/mnras/staf1628" target="_blank">*Predicting the collision history of basaltic asteroids from parametrized shapes with an artificial neural network*.</a> Monthly Notices of the Royal Astronomical Society (2025)
 
 </span>
