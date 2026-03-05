@@ -10,4 +10,6 @@ tags: ["Numerical method"]
 > [!IMPORTANT]
 > This page is under development.
 
+**Y. Jiao**, X. Yan, B. Cheng, et al. <a href="https://doi.org/10.1093/mnras/stad3888" target="_blank">*SPH-DEM modeling of hypervelocity impacts on rubble-pile asteroids*.</a> Monthly Notices of the Royal Astronomical Society (2023)
+
 </span>
