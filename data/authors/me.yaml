@@ -4,8 +4,8 @@ is_owner: true
 name:
   display: Yifei Jiao
   pronouns: he/him
-status:
-  icon: "🐱‍🚀"
+# status:
+  # icon: "🐱‍🚀"
 role: Postdoc in planetary science
 bio: |
   I am currently a postdoctoral researcher at University of California Santa Cruz and Tsinghua University.
