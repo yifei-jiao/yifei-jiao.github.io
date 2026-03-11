@@ -10,4 +10,6 @@ tags: ["Saturn system"]
 > [!IMPORTANT]
 > This page is under development.
 
+**Y. Jiao**, F. Nimmo, J. Wisdom, et al. <a href="" target="_blank">*Investigating tidal stripping of a pre-existing moon as the origin of Saturn's young icy rings*.</a> (Preprint)
+
 </span>
