@@ -5,7 +5,7 @@ summary: START mission Student-led Threatening Asteroid Reconnaissance of Tsingh
 tags: ["Asteroids"]
 ---
 
-<span style="font-size:0.85em;">
+<span style="font-size:0.85em; text-align: justify;">
   
 > [!IMPORTANT]
 > This page is under development.
