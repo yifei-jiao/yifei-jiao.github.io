@@ -5,7 +5,7 @@ summary: Where should we impact an asteroid to effectively deflect it?
 tags: ["Asteroids"]
 ---
 
-<span style="font-size:0.85em;">
+<span style="font-size:0.85em; text-align: justify;">
   
 > [!IMPORTANT]
 > This page is under development.
