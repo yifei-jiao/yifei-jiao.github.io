@@ -5,8 +5,8 @@ summary: Echoes of a recently lost moon in the Saturnian system?
 tags: ["Saturn system"]
 ---
 
-<span style="font-size:0.85em;">
-  
+<span style="font-size:0.85em; text-align: justify;">
+
 > [!IMPORTANT]
 > This page is under development.
 
