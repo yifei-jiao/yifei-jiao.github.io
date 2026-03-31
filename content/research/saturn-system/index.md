@@ -7,8 +7,6 @@ tags: ["Saturn system"]
 
 <span style="font-size:0.85em; text-align: justify;">
 
-> [!IMPORTANT]
-> This page is under development.
 
 The origin of Saturn's rings has been debated for decades. Measurements from Voyager and Cassini have suggested that the rings could be as young as ~100 Myr and composed of nearly pure water ice.
 Several scenarios have been proposed to explain these properties. 
