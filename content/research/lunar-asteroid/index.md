@@ -10,7 +10,7 @@ tags: ["Asteroids"]
 > [!IMPORTANT]
 > This page is under development.
 
-**Y. Jiao**, B. Cheng, H. Baoyin. *Probing the Moon from future asteroid impacts: a review*. Science China Technological Sciences (accepted)
+**Y. Jiao**, B. Cheng, H. Baoyin. <a href="https://www.sciengine.com/SCTS/doi/10.1007/s11431-025-3257-2" target="_blank">*Probing the Moon from future asteroid impacts: a review*.</a> Science China Technological Sciences (2026)
 
 Y. He, Y. Wu, **Y. Jiao**, et al. *Observation timelines for the potential lunar impact of asteroid 2024YR4*. The Astrophysical Journal (accepted)
 
