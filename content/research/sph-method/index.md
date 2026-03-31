@@ -6,9 +6,7 @@ tags: ["Numerical method"]
 ---
 
 <span style="font-size:0.85em; text-align: justify;">
-  
-> [!IMPORTANT]
-> This page is under development.
+
 
 Smoothed particle hydrodynamics (SPH) is a mesh-free Lagrangian particle method that represents physical quantities using a smoothing kernel and solves the hydrodynamic conservation equations for mass, momentum, and energy.
 The SPH method has been widely used to model hypervelocity impacts and tidal responses of planetary bodies.
