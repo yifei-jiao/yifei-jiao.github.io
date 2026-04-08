@@ -12,7 +12,7 @@ tags: ["Asteroids"]
 
 **Y. Jiao**, B. Cheng, H. Baoyin. <a href="https://www.sciengine.com/SCTS/doi/10.1007/s11431-025-3257-2" target="_blank">*Probing the Moon from future asteroid impacts: a review*.</a> Science China Technological Sciences (2026)
 
-Y. He, Y. Wu, **Y. Jiao**, et al. *Observation timelines for the potential lunar impact of asteroid 2024YR4*. The Astrophysical Journal (accepted)
+Y. He, Y. Wu, **Y. Jiao**, et al. <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ae4ddb" target="_blank">*Observation timelines for the potential lunar impact of asteroid 2024YR4*.</a> The Astrophysical Journal (accepted)
 
 Y. Wu, **Y. Jiao**, W. Dai, et al. <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ae2eab" target="_blank">*Detectability of lunar-origin asteroids in the LSST era*.</a> The Astrophysical Journal (2026)
 
