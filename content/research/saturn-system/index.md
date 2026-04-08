@@ -18,6 +18,6 @@ Moreover, multiple close encounters can extend the effective disruption limit by
 Following close encounters, the rocky remnant of Chrysalis would have been removed in less than few kyr, either by collision with Saturn or ejection onto a hyperbolic orbit.
 These findings support the hypothesis that Saturn's rings could originate from a recent lost moon, and imply a highly dynamical evolution of the Saturnian system over the past few hundred million years.
 
-**Y. Jiao**, F. Nimmo, J. Wisdom, et al. <a href="http://arxiv.org/abs/2603.14088" target="_blank">*Investigating tidal stripping of a pre-existing moon as the origin of Saturn's young icy rings*</a>. (under review)
+**Y. Jiao**, F. Nimmo, J. Wisdom, et al. <a href="http://arxiv.org/abs/2603.14088" target="_blank">*Investigating tidal stripping of a pre-existing moon as the origin of Saturn's young icy rings*</a>. The Astrophysical Journal Letters (accepted)
 
 </span>
