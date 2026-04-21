@@ -20,6 +20,6 @@ Following close encounters, the rocky remnant of Chrysalis would have been remov
 
 These findings support the hypothesis that Saturn's rings could originate from a recent lost moon, and imply a highly dynamical evolution of the Saturnian system over the past few hundred million years.
 
-**Y. Jiao**, F. Nimmo, J. Wisdom, et al. <a href="http://arxiv.org/abs/2603.14088" target="_blank">*Investigating tidal stripping of a pre-existing moon as the origin of Saturn's young icy rings*</a>. The Astrophysical Journal Letters (accepted)
+**Y. Jiao**, F. Nimmo, J. Wisdom, et al. <a href="https://doi.org/10.3847/2041-8213/ae5ca5" target="_blank">*Investigating tidal stripping of a preexisting moon as the origin of Saturn's young icy rings*</a>. The Astrophysical Journal Letters (2026)
 
 </span>
