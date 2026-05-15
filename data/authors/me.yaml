@@ -42,7 +42,7 @@ education:
     start: 2016-09-01
     end: 2020-06-01
     summary: |
-      Monte Carlo tree search for optimizing multi-target deep space exploration
+      Monte Carlo tree search for designing multi-target deep space exploration
 experience:
   - role: Postdoc
     org: University of California Santa Cruz, CA, USA
