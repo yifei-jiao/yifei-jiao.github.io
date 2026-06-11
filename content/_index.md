@@ -8,7 +8,7 @@ sections:
       username: me
     design:
       banner:
-        filename: DSC_0247.jpg
+        filename: bg1.png
       spacing:
         padding: [0, 0, 0, 0]
       biography:
