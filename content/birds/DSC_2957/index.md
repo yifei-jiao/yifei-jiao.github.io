@@ -1,6 +1,6 @@
 ---
-title: "Snowy Egret"
-date: 2026-03-01
+title: "Wood Duck"
+date: 2026-06-01
 summary: ""
-tags: ["雪鹭"]
+tags: ["林鸳鸯","幼鸟"]
 ---
