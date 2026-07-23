@@ -5,6 +5,9 @@ main:
   - name: Home
     url: /
     weight: 10
+  - name: 20765
+    url: asteroid_name/
+    weight: 20
   - name: Research
     url: research/
     weight: 20
