@@ -10,10 +10,10 @@ main:
     weight: 20
   - name: Research
     url: research/
-    weight: 20
+    weight: 30
   - name: Birds
     url: birds/
-    weight: 30
+    weight: 40
   - name: CV
     url: uploads/Rezume.pdf
-    weight: 40
+    weight: 50
