@@ -5,7 +5,7 @@ type: landing
 sections:
   - block: collection
     content:
-      title: See Birds!
+      title: Every Bird Has a Story.
       filters:
         folders:
           - birds
