@@ -7,8 +7,7 @@ tags: ["Asteroids"]
 
 <span style="font-size:0.85em; text-align: justify;">
   
-> [!IMPORTANT]
-> This page is under development.
+This work investigates how lunar impacts produce near-Earth asteroids and create opportunities to study the Moon. Combining impact simulations with orbital dynamics, we identified Giordano Bruno as a likely source crater of Kamoʻoalewa and assessed the population, evolution, and detectability of lunar-origin asteroids with Rubin Observatory’s LSST. We also modeled a hypothetical lunar impact by 2024 YR4, predicting optical, infrared, seismic, and ejecta signatures and proposing a coordinated observation timeline. Together, these studies connect lunar cratering with asteroid origins and survey searches, while outlining how future impact observations could probe the Moon’s subsurface and interior.
 
 **Y. Jiao**, B. Cheng, H. Baoyin. <a href="https://www.sciengine.com/SCTS/doi/10.1007/s11431-025-3257-2" target="_blank">*Probing the Moon from future asteroid impacts: a review*.</a> Science China Technological Sciences (2026)
 
