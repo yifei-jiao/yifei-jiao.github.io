@@ -7,18 +7,7 @@ tags: ["Saturn system"]
 
 <span style="font-size:0.85em; text-align: justify;">
 
-
-The origin of Saturn's rings has been debated for decades. Measurements from Voyager and Cassini have suggested that the rings could be as young as ~100 Myr and composed of nearly pure water ice.
-Several scenarios have been proposed to explain these properties. 
-One hypothesis is that the rings formed through the recent tidal disruption of a pre-existing moon, Chrysalis, which experienced a close encounter with Saturn following its highly eccentric orbit.
-However, the mechanism by which this hypothesis would have formed the rings remains largely unexplored, in particular, whether Chrysalis could supply ring material of the desired mass and composition.
-
-To address these questions, we perform smoothed particle hydrodynamics simulations to investigate the tidal response of Chrysalis during close encounters with Saturn.
-Our results demonstrate that preferential tidal stripping of the ice mantle from a differentiated Chrysalis can produce rings with both mass and composition resembling the present rings, provided that the closest encounter occurs between the parabolic Roche limits for ice ~1.53 $R_S$ and rock ~1.07 $R_S$.
-Moreover, multiple close encounters can extend the effective disruption limit by spinning up the body, enhancing the tidal stripping efficiency.
-Following close encounters, the rocky remnant of Chrysalis would have been removed in less than few kyr, either by collision with Saturn or ejection onto a hyperbolic orbit.
-
-These findings support the hypothesis that Saturn's rings could originate from a recent lost moon, and imply a highly dynamical evolution of the Saturnian system over the past few hundred million years.
+Saturn may have once hosted an additional moon and then lost it ~100 Myr ago, explaining both the planet's obliquity and the origin of its young rings. However, the mechanism by which this hypothesis would have formed the rings remains largely unexplored, in particular, whether the lost moon could supply ring material of the desired mass and composition. Here we perform SPH simulations to investigate tidal response of the lost moon during close encounters with Saturn. Our results demonstrate that preferential tidal stripping of the ice mantle from a differentiated moon can produce rings with both mass and composition resembling the present rings. The stripped debris would have been evolving on eccentric and inclined planetocentric orbits, and thus interact with the large regular moons. We then use N-body simulations to show that the resulting debris shower naturally explains the observed abundances and orientations of elliptical craters on the regular moons: the relatively low impact velocities preferentially produce elliptical impact craters; the impact geometries during the orbital damping process reproduce the predominantly north-south and west-east orientation of elliptical craters on Mimas, and Tethys/Dione, respectively. Similar signatures should also be present on Enceladus, Rhea, and Titan, providing testable predictions for future investigations. This impactor population could represent a significant fraction of craters on the regular moons, necessitating a reassessment of crater-based estimates of their surface ages.
 
 **Y. Jiao**, F. Nimmo, J. Wisdom, et al. <a href="https://doi.org/10.3847/2041-8213/ae5ca5" target="_blank">*Investigating tidal stripping of a preexisting moon as the origin of Saturn's young icy rings*</a>. The Astrophysical Journal Letters (2026)
 
