@@ -2,7 +2,7 @@
 title: Origin of Saturn's rings
 date: 2026-03-01
 summary: Echoes of a recently lost moon in the Saturnian system?
-tags: ["Saturn system"]
+tags: ["Saturnian system"]
 ---
 
 <span style="font-size:0.85em; text-align: justify;">
